@@ -2,6 +2,10 @@
 
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Ciência da computação na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
+<div>
+<img align="center" alt="Header" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/header.png?raw=true"/>
+</div>
+
 ## Sobre Mim
 
 - 👨‍🎓 **Graduação**: Ciência da computação na PUC Minas.
@@ -9,7 +13,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Ci�
 - 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
 ## Habilidades
-<!-- comentario teste-->
+
 - **Linguagens de Programação:** Java, Python, C#
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB
