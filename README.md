@@ -9,7 +9,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Ci�
 - 💼 **Experiência Profissional**: [Detalhes sobre experiências anteriores ou projetos relevantes, se aplicável]
 
 ## Habilidades
-
+<!-- comentario teste-->
 - **Linguagens de Programação:** Java, Python, C#
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
 - **Banco de Dados:** MySQL, MongoDB
