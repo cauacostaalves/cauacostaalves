@@ -23,9 +23,9 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Ci�
 
 ## Projetos Destacados
 
-### [Nome do Projeto]
-
-Breve descrição do projeto e suas tecnologias principais.
+### BaseballGame
+https://github.com/cauacostaalves/Trabalho-scratch.git
+Para ter sucesso neste jogo, você precisará navegar pelos dois estágios de uma partida de beisebol. A fase inicial exige que você acerte a bola com habilidade usando o taco, enquanto na fase subsequente você deve assumir o controle do receptor e pegar habilmente todas as bolas que descem do canto inferior da tela com sua luva..
 
 ### [Nome do Projeto]
 
