@@ -19,7 +19,7 @@ Seja bem-vindo ao meu perfil! ğŸ‘‹ Sou um estudante apaixonado pelo mundo da CiÃ
 - **Banco de Dados:** (Learning)
 - **Metodologias:** Scrum, Kanban
 - **Ferramentas:** Git, VS Code
-- *[Adicione outras habilidades relevantes]*
+
 
 ## Projetos Destacados
 
