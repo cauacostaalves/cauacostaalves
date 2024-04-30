@@ -24,8 +24,8 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Ci�
 ## Projetos Destacados
 
 ### BaseballGame
-https://github.com/cauacostaalves/Trabalho-scratch.git
-Para ter sucesso neste jogo, você precisará navegar pelos dois estágios de uma partida de beisebol. A fase inicial exige que você acerte a bola com habilidade usando o taco, enquanto na fase subsequente você deve assumir o controle do receptor e pegar habilmente todas as bolas que descem do canto inferior da tela com sua luva..
+  Link de acesso do fit do game: https://github.com/cauacostaalves/Trabalho-scratch.git <br>
+  Para ter sucesso neste jogo, você precisará navegar pelos dois estágios de uma partida de beisebol. A fase inicial exige que você acerte a bola com habilidade usando o taco, enquanto na fase subsequente você deve assumir o controle do receptor e pegar habilmente todas as bolas que descem do canto inferior da tela com sua luva..
 
 ### [Nome do Projeto]
 
