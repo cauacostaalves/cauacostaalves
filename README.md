@@ -1,4 +1,4 @@
-![Layered Waves](/img/layered-waves-haikei.svg)
+![Layered Waves](/Imagens/layered-waves-haikei.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=2250&color=dd00d6&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Ot%C3%A1vio+Monteiro;Seja+bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
